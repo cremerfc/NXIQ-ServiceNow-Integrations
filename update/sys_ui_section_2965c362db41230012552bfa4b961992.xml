@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="2965c362db41230012552bfa4b961992" sys_domain="global" table="x_77303_iq_sever_d_iq_organization" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 20:26:12</sys_created_on>
+            <sys_id>6d65c362db41230012552bfa4b961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_77303_iq_sever_d_iq_organization" sys_domain="global" view="Default view">2965c362db41230012552bfa4b961992</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 20:26:12</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>organizationid</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 20:26:12</sys_created_on>
+            <sys_id>ed65c362db41230012552bfa4b961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_77303_iq_sever_d_iq_organization" sys_domain="global" view="Default view">2965c362db41230012552bfa4b961992</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 20:26:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 20:26:12</sys_created_on>
+            <sys_id>6165c362db41230012552bfa4b961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_77303_iq_sever_d_iq_organization" sys_domain="global" view="Default view">2965c362db41230012552bfa4b961992</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 20:26:12</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>organizationname</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 20:26:12</sys_created_on>
+            <sys_id>e165c362db41230012552bfa4b961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_77303_iq_sever_d_iq_organization" sys_domain="global" view="Default view">2965c362db41230012552bfa4b961992</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 20:26:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 20:26:12</sys_created_on>
+            <sys_id>6565c362db41230012552bfa4b961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_77303_iq_sever_d_iq_organization" sys_domain="global" view="Default view">2965c362db41230012552bfa4b961992</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 20:26:12</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_77303_iq_sever_d_iq_organization</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 20:26:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2965c362db41230012552bfa4b961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_77303_iq_sever_d_iq_organization</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IQ Sever Data" source="x_77303_iq_sever_d">9d5dfae6db01230012552bfa4b961958</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IQ Sever Data">9d5dfae6db01230012552bfa4b961958</sys_scope>
+            <sys_update_name>sys_ui_section_2965c362db41230012552bfa4b961992</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 20:26:12</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

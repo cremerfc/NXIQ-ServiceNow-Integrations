@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="violation_type" table="x_77303_iq_sever_d_success_metric" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>violation_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Security</label>
+            <language>en</language>
+            <name>x_77303_iq_sever_d_success_metric</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 20:41:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7de88fe2db41230012552bfa4b96198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 20:41:30</sys_updated_on>
+            <value>security</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>violation_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>License</label>
+            <language>en</language>
+            <name>x_77303_iq_sever_d_success_metric</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 20:41:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bde88fe2db41230012552bfa4b96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 20:41:30</sys_updated_on>
+            <value>license</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>violation_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Quality</label>
+            <language>en</language>
+            <name>x_77303_iq_sever_d_success_metric</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 20:41:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3de88fe2db41230012552bfa4b96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 20:41:30</sys_updated_on>
+            <value>quality</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>violation_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_77303_iq_sever_d_success_metric</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 20:41:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b9e88fe2db41230012552bfa4b961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 20:41:30</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>violation_type</element>
+            <name>x_77303_iq_sever_d_success_metric</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 20:41:30</sys_created_on>
+            <sys_id>b5e88fe2db41230012552bfa4b96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>violation_type</sys_name>
+            <sys_package display_value="IQ Sever Data" source="x_77303_iq_sever_d">9d5dfae6db01230012552bfa4b961958</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IQ Sever Data">9d5dfae6db01230012552bfa4b961958</sys_scope>
+            <sys_update_name>sys_choice_x_77303_iq_sever_d_success_metric_violation_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 20:41:30</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

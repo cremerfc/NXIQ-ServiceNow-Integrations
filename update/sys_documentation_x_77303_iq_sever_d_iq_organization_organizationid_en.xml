@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="organizationid" label="organizationID" language="en" table="x_77303_iq_sever_d_iq_organization">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>organizationid</element>
+            <help/>
+            <hint/>
+            <label>organizationID</label>
+            <language>en</language>
+            <name>x_77303_iq_sever_d_iq_organization</name>
+            <plural>organizationIDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-12 20:24:35</sys_created_on>
+            <sys_id>3905cb22db41230012552bfa4b9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>organizationID</sys_name>
+            <sys_package display_value="IQ Sever Data" source="x_77303_iq_sever_d">9d5dfae6db01230012552bfa4b961958</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IQ Sever Data">9d5dfae6db01230012552bfa4b961958</sys_scope>
+            <sys_update_name>sys_documentation_x_77303_iq_sever_d_iq_organization_organizationid_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-12 20:24:35</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

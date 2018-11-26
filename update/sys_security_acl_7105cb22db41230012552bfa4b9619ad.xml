@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_77303_iq_sever_d_iq_organization</description>
+        <name>x_77303_iq_sever_d_iq_organization</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-12 20:24:35</sys_created_on>
+        <sys_id>7105cb22db41230012552bfa4b9619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_77303_iq_sever_d_iq_organization</sys_name>
+        <sys_package display_value="IQ Sever Data" source="x_77303_iq_sever_d">9d5dfae6db01230012552bfa4b961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IQ Sever Data">9d5dfae6db01230012552bfa4b961958</sys_scope>
+        <sys_update_name>sys_security_acl_7105cb22db41230012552bfa4b9619ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-12 20:24:35</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

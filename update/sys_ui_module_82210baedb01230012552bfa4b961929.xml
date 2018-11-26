@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Success Metric">4a210baedb01230012552bfa4b961927</application>
+        <filter/>
+        <name>Success Metrics</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_77303_iq_sever_d.success_metric_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-12 20:07:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>82210baedb01230012552bfa4b961929</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Success Metrics</sys_name>
+        <sys_package display_value="IQ Sever Data" source="x_77303_iq_sever_d">9d5dfae6db01230012552bfa4b961958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IQ Sever Data">9d5dfae6db01230012552bfa4b961958</sys_scope>
+        <sys_update_name>sys_ui_module_82210baedb01230012552bfa4b961929</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-12 20:07:40</sys_updated_on>
+        <table>x_77303_iq_sever_d_success_metric</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

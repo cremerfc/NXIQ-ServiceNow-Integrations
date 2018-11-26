@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="IQ Success Metric" max_length="40" name="x_77303_iq_sever_d_success_metric" type="collection">
+        <element label="IQ Application" max_length="32" name="iq_application" reference="x_77303_iq_sever_d_iq_application" type="reference"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="IQ Organization" max_length="32" name="iq_organization" reference="x_77303_iq_sever_d_iq_organization" type="reference"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Metric" max_length="40" name="metric" type="integer"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Time Period Start" max_length="40" name="time_period_start" type="glide_date_time"/>
+        <element choice="1" label="Violation Level" max_length="40" name="u_choice_1" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Low" sequence="0" value="low"/>
+                <element inactive_on_update="false" label="Moderate" sequence="1" value="moderate"/>
+                <element inactive_on_update="false" label="Severe" sequence="2" value="severe"/>
+                <element inactive_on_update="false" label="Critical" sequence="3" value="critical"/>
+            </choice>
+        </element>
+        <element choice="1" label="Count Type" max_length="40" name="u_choice_2" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Evaluation Count" value="Evaluation Count"/>
+                <element inactive_on_update="false" label="discoveredCounts" sequence="0" value="discoveredcounts"/>
+                <element inactive_on_update="false" label="fixedCounts" sequence="1" value="fixedcounts"/>
+                <element inactive_on_update="false" label="waivedCounts" sequence="2" value="waivedcounts"/>
+                <element inactive_on_update="false" label="openCountsAtTimePeriodEnd" sequence="3" value="opencountsattimeperiodend"/>
+            </choice>
+        </element>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" choice="1" label="Violation Type" max_length="40" name="violation_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Security" sequence="0" value="security"/>
+                <element inactive_on_update="false" label="License" sequence="1" value="license"/>
+                <element inactive_on_update="false" label="Quality" sequence="2" value="quality"/>
+                <element inactive_on_update="false" label="Other" sequence="3" value="other"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="iq_application"/>
+        </index>
+    </element>
+</database>

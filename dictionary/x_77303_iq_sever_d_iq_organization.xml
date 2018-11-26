@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="IQ Organization" max_length="40" name="x_77303_iq_sever_d_iq_organization" type="collection">
+        <element label="organizationID" max_length="40" name="organizationid" type="string"/>
+        <element display="true" label="organizationName" max_length="40" name="organizationname" type="string"/>
+    </element>
+</database>

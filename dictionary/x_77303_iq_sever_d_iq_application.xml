@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="IQ Application" max_length="40" name="x_77303_iq_sever_d_iq_application" type="collection">
+        <element label="applicationId" max_length="40" name="applicationid" type="string"/>
+        <element display="true" label="applicationName" max_length="40" name="applicationname" type="string"/>
+        <element label="Organization" max_length="32" name="organization" reference="x_77303_iq_sever_d_iq_organization" type="reference"/>
+        <element label="organizationId" max_length="10" name="organizationid" type="string"/>
+        <element label="publicId" max_length="40" name="publicid" type="string"/>
+        <index name="index">
+            <element name="organization"/>
+        </index>
+    </element>
+</database>
